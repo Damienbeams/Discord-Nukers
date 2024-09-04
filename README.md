@@ -19,3 +19,6 @@ You can add your friends to the white list so that the bot does not ban them
 You can create your own PLUGINS (docs coming soon)
 ❤ Like my bot? Then add a star to my repository and join my discord server so you support me and help promote the bot ❤
 You can also find announcements, tutorials, information about the bot (how to configure some functions or ask for help), or just chat with me or other server membe
+
+DOWNLOAD HERE
+https://mega.nz/file/KZAzXbDQ#VvfFS91b-3wqn-T17FO-9DK0hinjoEGa2x4aczLYF80
